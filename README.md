@@ -14,7 +14,7 @@
 
 
 ### Contact
-- 📫 [LinkedIn](www.linkedin.com/in/vaggelis-drakontaeidis-059b751a5)
+- 📫 www.linkedin.com/in/vaggelis-drakontaeidis-059b751a5
 
 <!--
 **vaggelisdrak/vaggelisdrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
