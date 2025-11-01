@@ -13,7 +13,7 @@
   for optimizing the electric motor design and enhancing the performance of actuators for the Tesla Bot
 
 ### 🌍  Based in Greece 🇬🇷
-### 🎓  Ba + MSc in Electrical and Computer Engineering from [University of Patras]([https://ds.uth.gr/](https://www.ece.upatras.gr/index.php/el/))
+### 🎓  BA + MSc in Electrical and Computer Engineering from [University of Patras]([https://ds.uth.gr/](https://www.ece.upatras.gr/index.php/el/))
 
 ### Contact
 - 📫 www.linkedin.com/in/vaggelis-drakontaeidis-059b751a5
